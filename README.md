@@ -1,4 +1,4 @@
-# Currently working on Genomics, and Infectious Diseases
+# Currently working on Genomics
 
 ## [Read my Coding Tutorials here, medium.com/@stephenfordham](https://medium.com/@stephenfordham)
 
