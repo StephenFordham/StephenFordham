@@ -1,7 +1,7 @@
-# 🧬 Currently working on Genomic Pathogen Surveillance 
+# 🧬 Merging programming with genomics 
 ## _A snapshot of my work_
 
-### 📓 [Read my Coding Tutorials here, medium.com/@stephenfordham](https://medium.com/@stephenfordham)
+### 📓 [Read my Coding Tutorials](https://medium.com/@stephenfordham)
 ### 🎨 [Explore my Dash app](https://kleb-dash-app.herokuapp.com/)
 ### 📈 [Surveillance Concept Website](https://surveillance-concept.herokuapp.com/home)
 
