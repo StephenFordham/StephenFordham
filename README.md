@@ -1,4 +1,4 @@
-# 🧬 Merging programming with genomics 
+# Merging programming with genomics 
 ## _My Work at a glance_
 
 ### 📓 [Read my Coding Tutorials](https://medium.com/@stephenfordham)
